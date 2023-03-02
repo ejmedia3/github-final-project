@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <ejmedia3>
+   # @ejmedia3
 
    # Input:
    # p, principal amount
